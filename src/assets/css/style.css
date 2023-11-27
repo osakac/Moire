@@ -1035,6 +1035,9 @@ a {
   -ms-flex-item-align: stretch;
   align-self: stretch;
 }
+.catalog__item:hover {
+  box-shadow: 0px 0px 10px 10px rgba(224, 45, 113, 0.2);
+}
 .catalog__list {
   padding: 0;
   list-style: none;
