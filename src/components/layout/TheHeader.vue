@@ -41,6 +41,9 @@
 .header__tel:hover {
   color: #e02d71;
 }
+.header__cart {
+  transition: all 0.5s ease;
+}
 .header__cart:hover {
   transform: scale(1.3);
 }
